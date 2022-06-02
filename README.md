@@ -1,4 +1,8 @@
 # First-React.js-Web-App
+
+1. npx create-react-app  ./   (./ is for current directory)
+2. npm start (run app on localhost 3000)
+
 A simple react.js web app to show movies list according to search keyword.
 
 As a mobile developer, I decided to jump into the world of the web and start practicing React JS
